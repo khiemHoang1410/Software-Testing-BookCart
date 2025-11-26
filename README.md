@@ -7,7 +7,7 @@
 
 > **Môn học:** Kiểm thử Phần mềm (Software Testing)  
 > **Mã học phần:** 841408  
-> **Giảng viên hướng dẫn:** ThS. Phạm Thị Vương
+> **Giảng viên hướng dẫn:** ThS. Từ Lãng Phiêu
 
 ---
 
@@ -63,8 +63,8 @@ Báo cáo tập trung vào 4 cấp độ kiểm thử chính:
 
 Toàn bộ quá trình phân tích yêu cầu, thiết kế Test Case, Test Script và kết quả thực nghiệm được trình bày chi tiết trong báo cáo đồ án.
 
-* 📄 **Xem Báo cáo (PDF):** [Click để tải xuống](./Report.pdf) *(Vui lòng upload file PDF lên repo)*
-* 🔗 **Xem trực tuyến (Overleaf):** [>> Link Project Overleaf <<](https://www.overleaf.com) *(Thay link của bạn vào đây)*
+* 📄 **Xem Báo cáo (PDF):** [Click để tải xuống](./BAO_CAO_TESTING.pdf)
+* 🔗 **Xem trực tuyến (Overleaf):** [>> Link Project Overleaf <<](https://www.overleaf.com/read/jpdndpqfzpxb#bdc356)
 
 ---
 
