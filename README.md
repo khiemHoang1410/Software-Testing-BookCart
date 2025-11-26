@@ -63,7 +63,7 @@ Báo cáo tập trung vào 4 cấp độ kiểm thử chính:
 
 Toàn bộ quá trình phân tích yêu cầu, thiết kế Test Case, Test Script và kết quả thực nghiệm được trình bày chi tiết trong báo cáo đồ án.
 
-* 📄 **Xem Báo cáo (PDF):** [Click để tải xuống](https://github.com/khiemHoang1410/Software-Testing-BookCart/blob/main/BAO_CAO_TESTING.pdf)
+* 📄 **Xem Báo cáo (PDF):** [Click để tải xuống](https://github.com/khiemHoang1410/Software-Testing-BookCart/raw/main/BAO_CAO_TESTING.pdf)
 * 🔗 **Xem trực tuyến (Overleaf):** [>> Link Project Overleaf <<](https://www.overleaf.com/read/jpdndpqfzpxb#bdc356)
 
 ---
