@@ -24,7 +24,7 @@
 Toàn bộ quá trình phân tích yêu cầu, thiết kế Test Case, Test Script và kết quả thực nghiệm được trình bày chi tiết trong báo cáo đồ án.
 
 * 📄 **Xem Báo cáo (PDF):** [Click để tải xuống](https://github.com/khiemHoang1410/Software-Testing-BookCart/raw/main/BAO_CAO_TESTING.pdf)
-* 🔗 **Xem trực tuyến (Overleaf) https://images.ctfassets.net/nrgyaltdicpt/2fJT673XY7Jyx0hnloYH5u/e8ab3a07b40ed4b9c18756d7741ef4dc/overleaf-o-logo-primary.png:** [>> Link Project Overleaf <<](https://www.overleaf.com/read/jpdndpqfzpxb#bdc356)
+* 🔗 **Xem trực tuyến (Overleaf) :** [>> Link Project Overleaf <<](https://www.overleaf.com/read/jpdndpqfzpxb#bdc356)
 
 
 ---
